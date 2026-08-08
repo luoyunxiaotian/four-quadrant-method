@@ -1,5 +1,7 @@
 # 四象限对话法（Four-Quadrant Method）
 
+[English](./README.md)
+
 > 一套与 AI 协作的实用思考框架：让未知显形，尽早暴露盲点，让任务的每一步都走在正确的轨道上。
 
 本仓库收录**四象限对话法**（Four-Quadrant Method），一套最初以 AI 助手 skill 形式编写的方法论（见 [`SKILL.md`](./SKILL.md)）。它帮助你与 AI 一起管理"已经知道什么、还不知道什么"，以及最重要的——**不知道自己不知道什么**。
@@ -39,4 +41,4 @@
 ## 仓库内容
 
 - [`SKILL.md`](./SKILL.md) — 完整 skill 定义（原始版本，中文）。
-- [`README.md`](./README.md) — 本页的英文版。
+
