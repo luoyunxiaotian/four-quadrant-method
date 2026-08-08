@@ -1,5 +1,7 @@
 # Four-Quadrant Method
 
+[中文版](./README.zh-CN.md)
+
 > A practical thinking framework for collaborating with AI: make the unknown visible, surface blind spots early, and keep every step of a task on track.
 
 This repository contains the **Four-Quadrant Method** (四象限对话法), a methodology originally built as a skill for AI assistants (see [`SKILL.md`](./SKILL.md)). It helps you and an AI assistant manage what you know, what you don't know, and — most importantly — **what you don't know you don't know**.
@@ -39,4 +41,4 @@ The method has three levels, applied by default at every scale of work:
 ## Contents
 
 - [`SKILL.md`](./SKILL.md) — the full skill definition (original, in Chinese).
-- [`README.zh-CN.md`](./README.zh-CN.md) — Chinese version of this page.
+
